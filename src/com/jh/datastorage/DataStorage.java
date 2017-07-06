@@ -16,5 +16,25 @@ public class DataStorage {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public DataStorage() {
+		
+	}
+	
+	public Object executeComm(String strConnection, String strCommand) {
+		return null;
+	}
+	
+	private void selectData() {
+		
+	}
+	
+	private void updateData() {
+		
+	}
+	
+	private void insertData() {
+		
+	}
 
 }

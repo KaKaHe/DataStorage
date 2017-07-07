@@ -35,16 +35,16 @@ public class FileHandler implements Serializable {
 		return instance;
 	}
 	
-	public void readFile() {
-		
+	public Object readFile() {
+		return null;
 	}
 	
-	public void writeFile() {
-		
+	public boolean writeFile() {
+		return false;
 	}
 	
-	public void loadfile() {
-		
+	public Object loadfile() {
+		return null;
 	}
 
 }
